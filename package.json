@@ -1,0 +1,22 @@
+{
+  "name": "nightwatch-v3-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chromedriver": "^111.0.0",
+    "nightwatch": "^3.0.0-preview.1",
+    "serve": "^14.2.0",
+    "wait-on": "^7.0.1"
+  },
+  "dependencies": {
+
+  }
+}
